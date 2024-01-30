@@ -1,4 +1,4 @@
-## Olá, me chamo Rodrigo e estudo Game Design!
+## Olá, me chamo Rodrigo e sou formado em Jogos Digitais.
 <div align="center">
   <a href="https://github.com/digoha">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=digoha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,6 +16,8 @@
   ###
   
 <div>
+  Links de contato e portfólio
+  
   <a href="https://instagram.com/digoha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigoha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/digoha" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
