@@ -21,6 +21,7 @@
   <a href="https://linktr.ee/digoha" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
   <a href="https://digomeat.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
   <a href="https://www.artstation.com/digoha" target="_blank"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
+  <a href="mailto:digoha03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
 
