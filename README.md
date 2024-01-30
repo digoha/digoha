@@ -19,8 +19,10 @@
   <a href="https://instagram.com/digoha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigoha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/digoha" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
+  <a href="https://digomeat.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+  <a href="https://www.artstation.com/digoha" target="_blank"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
   
   
-  
+
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 </div>
