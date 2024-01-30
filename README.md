@@ -16,8 +16,6 @@
   ###
   
 <div>
-  Links de contato e portfólio
-  
   <a href="https://instagram.com/digoha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigoha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/digoha" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
@@ -27,5 +25,5 @@
   
   
 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
